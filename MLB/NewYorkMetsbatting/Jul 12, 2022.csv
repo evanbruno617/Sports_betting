@@ -1,0 +1,16 @@
+AB,R,H,RBI,BB,SO,PA,BA,OBP,SLG,OPS,Pit,Str,WPA,aLI,WPA+,WPA-,cWPA,acLI,RE24,PO,A,Details,Temp,Wind,Weather,Precipitation
+3,1,1,0,1,1,4,.271,.358,.437,.795,22,12,0.016, 0.78,0.057,-0.041%, 0.01%, 0.70, 0.1,4,0,,71° F, Wind 5mph in from Centerfield, Cloudy, No Precipitation.
+4,1,2,0,0,0,4,.295,.345,.458,.804,8,6,0.113, 1.12,0.153,-0.041%, 0.06%, 1.01, 1.1,1,0,SB,71° F, Wind 5mph in from Centerfield, Cloudy, No Precipitation.
+4,0,2,0,0,0,4,.248,.324,.432,.756,12,7,0.024, 1.35,0.097,-0.072%, 0.01%, 1.23, 0.4,0,3,SB,71° F, Wind 5mph in from Centerfield, Cloudy, No Precipitation.
+4,0,1,1,0,1,4,.265,.339,.517,.857,17,11,0.038, 1.62,0.139,-0.101%, 0.02%, 1.48, -0.1,7,0,,71° F, Wind 5mph in from Centerfield, Cloudy, No Precipitation.
+4,0,0,0,0,0,4,.300,.362,.418,.780,14,12,-0.136, 1.23,0.000,-0.136%,-0.07%, 1.11, -1.4,,,,71° F, Wind 5mph in from Centerfield, Cloudy, No Precipitation.
+3,0,1,0,1,0,4,.224,.279,.397,.676,26,17,-0.071, 0.89,0.013,-0.084%,-0.04%, 0.81, -0.7,0,3,,71° F, Wind 5mph in from Centerfield, Cloudy, No Precipitation.
+3,0,1,0,1,0,4,.269,.370,.381,.750,17,8,-0.026, 1.26,0.063,-0.089%,-0.01%, 1.14, 0.2,0,0,2B,71° F, Wind 5mph in from Centerfield, Cloudy, No Precipitation.
+4,0,1,0,0,0,4,.293,.369,.369,.738,24,14,-0.046, 1.46,0.082,-0.128%,-0.03%, 1.32, -1.0,4,2,GDP,71° F, Wind 5mph in from Centerfield, Cloudy, No Precipitation.
+3,0,0,0,0,0,3,.180,.206,.295,.501,10,7,-0.078, 1.02,0.000,-0.078%,-0.04%, 0.92, -0.7,8,0,,71° F, Wind 5mph in from Centerfield, Cloudy, No Precipitation.
+1,0,0,0,0,0,1,.234,.325,.345,.670,5,3,-0.173, 3.88,0.000,-0.173%,-0.09%, 3.52, -0.5,,,GDP,71° F, Wind 5mph in from Centerfield, Cloudy, No Precipitation.
+,,,,,,,,,,,,,,,,,,,,,,,71° F, Wind 5mph in from Centerfield, Cloudy, No Precipitation.
+,,,,,,,,,,,,,,,,,,,,0,0,,71° F, Wind 5mph in from Centerfield, Cloudy, No Precipitation.
+,,,,,,,,,,,,,,,,,,,,0,0,,71° F, Wind 5mph in from Centerfield, Cloudy, No Precipitation.
+,,,,,,,,,,,,,,,,,,,,0,1,,71° F, Wind 5mph in from Centerfield, Cloudy, No Precipitation.
+,,,,,,,,,,,,,,,,,,,,0,0,,71° F, Wind 5mph in from Centerfield, Cloudy, No Precipitation.

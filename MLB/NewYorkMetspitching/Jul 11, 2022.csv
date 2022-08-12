@@ -1,0 +1,4 @@
+IP,H,R,ER,BB,SO,HR,ERA,BF,Pit,Str,Ctct,StS,StL,GB,FB,LD,Unk,GSc,IR,IS,WPA,aLI,cWPA,acLI,RE24,Temp,Wind,Weather,Precipitation
+ 7 ,3,1,1,0,9,1,2.15,24,93,67,35,20,12,2,13,4,0,76,,,0.342, 0.93, 0.31%, 1.41, 2.8,80° F, Wind 6mph in from Leftfield, Cloudy, No Precipitation.
+ 1 ,2,0,0,0,1,0,2.67,5,20,12,8,0,4,4,0,0,0,,0,0,0.097, 1.90, 0.09%, 2.89, 0.5,80° F, Wind 6mph in from Leftfield, Cloudy, No Precipitation.
+ 1 ,0,0,0,0,3,0,1.73,3,11,10,4,6,0,0,0,0,0,,0,0,0.047, 0.59, 0.04%, 0.90, 0.5,80° F, Wind 6mph in from Leftfield, Cloudy, No Precipitation.
