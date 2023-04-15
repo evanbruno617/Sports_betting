@@ -32,6 +32,14 @@ I then decided to try out a LSTM model in predicting players scores and using th
 
 After predicting what the players' scores will be in the next game I next had to find the best combination of players to choose for the game given their preidcitons. 
 
+![image](https://github.com/evanbruno617/Sports_betting/blob/main/images/Screenshot%202023-04-15%20at%2010.52.45%20AM.png)
+
+Using combinations from itertools I found the combination of players for each captain that produced the most points (using their predicted performance with LSTM Model) under their salary cap. Each player has a salary associated to assinging them to your team and your salary cap is 50,000 so the code therefore found this bets combination with consideration of this salary cap. Afterwards I used the team that had the most points and submitted that to my betting prediction for that game
+
+# Results
+---
+
+After using this method for sports betting on Draftkings I found some success however I learned just by analyzing their past scores it is difficult to predict their future performance due to externalities such as how difficult each team is, whether or not the star player playing affects the performance of other players and so on. In the future will need to take these other factors into consideration when placing these bets.
 
 
 
